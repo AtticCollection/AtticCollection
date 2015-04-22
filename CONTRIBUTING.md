@@ -45,3 +45,10 @@ if it is still hanging around.
 This is the production branch all merges will be via pull requests and
 evaluated by almost everyone. After careful consideration we will merge
 and the manualy deploy to the production servers.
+
+##Style
+We should follow the basic style guids for ruby html css etc. We will be
+using Haml S**A**SS and Coffeescript to help promote conformity & make
+it easier on those that know how to use preprocessors. We may take coffee
+out of the mix in favor of regular javascript.
+
